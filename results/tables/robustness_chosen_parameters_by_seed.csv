@@ -1,0 +1,4 @@
+seed,half_life_trading_days,regime_bandwidth,m_rollout,minimum_ess_fraction,n_validation_anchors,n_test_anchors
+20260814,252,2.0,10,0.02,50,34
+20260815,252,2.0,80,0.03,50,34
+20260816,252,2.0,80,0.0,50,34

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or the archived results, please cite this repository. The accompanying working paper will become the preferred citation after its preprint record is finalized."
+title: "Historical Evidence for Off-Policy Evaluation under Nonstationarity"
+type: software
+authors:
+  - name: "Sequential Decision Research"
+version: "1.0.0"
+date-released: "2026-08-17"
+repository-code: "https://github.com/SequentialDecisionResearch/historical-evidence-ope"
+url: "https://github.com/SequentialDecisionResearch/historical-evidence-ope"
+license: MIT
+keywords:
+  - reinforcement-learning
+  - off-policy-evaluation
+  - contextual-bandits
+  - nonstationarity
+  - sequential-decision-making
+  - reproducible-research
