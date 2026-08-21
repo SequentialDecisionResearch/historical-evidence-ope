@@ -161,4 +161,8 @@ This repository is for research and educational use. It does not place trades, c
 
 This is the first public research repository under **Sequential Decision Research**, an independent research program focused on reinforcement learning, contextual bandits, off-policy evaluation, Bayesian sequential decision making, and adaptive decision systems.
 
+## Working paper:
+Can Old Market Data Reliably Evaluate a New Policy?
+Available on SSRN: https://ssrn.com/abstract=7322039
+
 
